@@ -6,7 +6,7 @@ A responsive website with
 
 <h2> SASS Gif </h2>
 
-![](sass.gif) 
+![](./SASS-Project/sass.gif) 
 
 
 
